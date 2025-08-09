@@ -18,9 +18,9 @@ The following project was carried out with the aim of gaining and show real-worl
 - Ingesting logs including Sysmon for endpoints
   
   ---
-- what is a Brute force attack and how they work?
-- how to setup SSH and EDP servers
-- create alerts and dashboards
+- What is a Brute force attack and how they work?
+- How to setup SSH and EDP servers
+- Create alerts and dashboards
   
   ---
 - Command and Control C2
@@ -29,6 +29,6 @@ The following project was carried out with the aim of gaining and show real-worl
   
   ---
 
-- setting up and integration of a ticketing system
-- investigate alerts **(Medium Level)**
+- Setting up and integration of a ticketing system
+- Investigate alerts **(Medium Level)**
   
