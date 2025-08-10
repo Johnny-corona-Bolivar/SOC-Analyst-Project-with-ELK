@@ -34,3 +34,35 @@ It is used to centralize logs and analyze them in real time. It is widely used f
    <img width="399" height="260" alt="image" src="https://github.com/user-attachments/assets/943be2f6-c24a-464a-aa60-d1dc38af5c94" />
 
 
+   ### Telemetric:
+
+   - There are two popular to collect telemetric: **Beats and elastic agent**
+     - Beats: 
+         - File beats – logs
+         - Metric beats – metrics
+         - Packet beats – network data
+         - Winlog beat – Windows events
+         - Audit beat – Audit data
+         - Heartbeat beat – uptime monitoring
+
+Depending of the telemetric to collect, you install the correspondant beats in the endpoint: for this project i will use a FLEET SERVER
+
+  <img width="572" height="382" alt="image" src="https://github.com/user-attachments/assets/f4d2f150-4bfa-4e68-ad68-0d8ac99c0731" />
+
+
+### Benefits of using elk:
+
+1-	Centralized logging: meet compliance requirements & search data
+
+2-	Flexibility: customized ingestión
+
+3-	Visualizations: observe information at-a-glance
+
+4-	Scalability: easy to configure to handle larger environments
+
+5-	Ecosystem: many integration and rich community
+
+
+     
+
+
