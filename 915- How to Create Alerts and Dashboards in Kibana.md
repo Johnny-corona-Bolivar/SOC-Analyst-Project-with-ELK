@@ -1,4 +1,4 @@
-# How to Create Alerts and Dashboards in Kibana
+# How to Create Alerts and Dashboards in Kibana 2
 
 Authentication Logs from Windows Server
 Alerts are created the same way as before, following the same steps.  
