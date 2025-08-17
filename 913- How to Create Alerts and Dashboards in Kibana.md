@@ -1,4 +1,4 @@
-# Create SSH Brute Force Alert and Dashboard
+# Create SSH Brute Force Alert and Dashboard 1
 
 
 We look for **failed authentication** in the Kibana dashboard because a brute force attack tries multiple combinations.  
